@@ -1,0 +1,5 @@
+spell,type,description
+str,str,str
+acid arrow,attack,Call up a caustic bolt of acid that burns through your enemies
+fireball,attack,Summon a raging inferno to strike multiple foes
+knock,utility,Break open a lock with a small but precise application of power

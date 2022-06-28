@@ -1,0 +1,5 @@
+creature,description,enemy,maxhp,currenthp,armourvalue,strength,wits,intelligence,weapon
+str,str,int,int,int,int,int,int,int,str
+kobold,A diminutive red skinned reptilian. Cunning and dangerous in large numbers,1,4,4,0,1,2,2,dagger
+kobold dragonheart,A champion of the kobolds. Imbued with strength by their draconic master,1,8,8,1,3,2,1,spear
+loyal hound,A faithful companion in life and battle,0,6,6,0,2,2,1,dogbite

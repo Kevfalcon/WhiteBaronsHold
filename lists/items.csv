@@ -1,0 +1,17 @@
+item,type,description,stat,bonus,damage,requirement
+str,str,str,str,int,str,int
+unarmed strike,weapon,Your body is a weapon. Just not a particularly effective one,strength,0,1,0
+sword,weapon,An old iron sword. Well used but still sharp,strength,0,1d8,2
+spear,weapon,A simple but very effective weapon,strength,1,1d6,1
+dagger,weapon,A keen dagger. Deadly in the right hands,wits,1,1d4,2
+staff,weapon,A solid length of wood. Gives one an aura of respectability,strength,0,1d6,1
+leathers,armour,Padded leather armour. Provides some measure of protection,strength,1,,1
+chainmail,armour,Interlocked metal chains. Hard but flexible,strength,2,,3
+plate,armour,Heavy metal plates. Offering great protection,strength,3,,4
+clothes,armour,Simple travelling cloths.,strength,0,,0
+shield,shield,A wooden board reinforced with iron,strength,1,1d3,2
+smokebomb,utility,A simple alchemical concoction. Creates thick black smoke when thrown,,0,,0
+lockpicks,utility,A set of finely crafted tools to aid in criminal pursuits,,0,,0
+poison,utility,A small vial of potent poison,,0,,0
+dogbite,creature,Dog bite attack,strength,0,1d4,0
+empty,system,You have nothing in this hand

@@ -1,0 +1,5 @@
+class,description,basehp,basearmour,basestrength,basewits,baseintelligence,startingitems,startingspells,righthand,lefthand,armour,enemy
+str,str,int,int,int,int,int,list,list,str,str,str,int
+knight,A heavily armour soldier. Good at taking hits and dealing them in return.,20,4,4,2,2,sword|shield|chainmail,,sword,shield,chainmail,0
+thief,A expert in stealth and trickery. Fight with wits and speed.,17,2,1,4,3,dagger|leathers,,dagger,empty,leathers,0
+wizard,A master of the arcane arts. Their magical might can solve many problems.,13,1,1,3,4,staff,acid arrow|acid arrow|acid arrow|acid arrow|fireball|knock|knock,staff,empty,clothes,0
